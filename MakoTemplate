@@ -1,0 +1,4 @@
+%for i in (1, 4):
+auto swp${i}
+iface swp${i}
+%endfor
